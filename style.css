@@ -1,0 +1,25 @@
+:root{
+    --back-green: #ccd5ae;
+    --back-cream: #fefae0;
+}
+
+body {
+    background-image: linear-gradient(45deg, var(--back-green), var(--back-cream));
+    color: #a53860;
+    font-family: 'Arial';
+}
+
+#indexcenterbox{
+    text-align: center;
+    background-color: #f5cac3;
+    padding: 10px;
+}
+#indeximgleft{
+    background-color: black;
+    width: 33%;
+}
+#thebutton{
+    border: none;
+    padding: 10px 50px;
+    border-radius: 10px;
+}
